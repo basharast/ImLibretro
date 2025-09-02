@@ -68,6 +68,14 @@ Highly advanced & customizable touch controller
 
 it provide debug visualization so user can understand how adjust touch senstivity
 
+## Core Manage
+
+A lot of helper to simplify core's management, such as BIOS files
+
+it's easy to know whether core require extra files or not
+
+![ApplicationFrameHost_pJRKFvi1Ft](https://github.com/user-attachments/assets/93bf5e45-eee1-44a8-a515-1bd14b29ea00)
+
 ## Future
 
 It's planned to support GL/GLES in future and port more cores
