@@ -17,7 +17,7 @@ it also showcase regarding [ImMobile](https://github.com/basharast/ImMobile) str
 
 - Friendly UI
 - Optimized Render
-- Muliple Inputs/Ports
+- Multiple Inputs/Ports
 - Easy to manage cores
 - Easy to manage BOIS files
 - In game-options
