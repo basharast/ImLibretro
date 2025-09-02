@@ -17,7 +17,7 @@ it also showcase regarding [ImMobile](https://github.com/basharast/ImMobile) str
 
 - Friendly UI
 - Optimized Render
-- Muliple Inputs/Ports
+- Multiple Inputs/Ports
 - Easy to manage cores
 - Easy to manage BOIS files
 - In game-options
@@ -41,7 +41,10 @@ This extension can work on any device with Windows 8.1+
 
 ## Screenshots
 
-TBC..
+| ![1](https://github.com/user-attachments/assets/caf96624-a439-410c-9a56-f8e163635fb3) | ![2](https://github.com/user-attachments/assets/035b08ac-eb0f-4163-9c03-dd15a5c0286e) | ![7](https://github.com/user-attachments/assets/f48ffae0-d1c1-46e0-b6d0-fad814fd8587) |
+| --- | --- | --- |
+| ![3](https://github.com/user-attachments/assets/bd186808-63e6-4151-8660-e6a00e081891) | ![4](https://github.com/user-attachments/assets/399cefa9-fb6f-4371-803d-6d493ec9c84e) | ![6](https://github.com/user-attachments/assets/be214aaa-68df-4f3e-a0ba-17925a945c3f) |
+| ![5](https://github.com/user-attachments/assets/f73a6c46-1f50-4a83-b4ac-304fceb32b0f) | ![8](https://github.com/user-attachments/assets/58419f59-3f2f-4161-b908-85a8ca85fcf4) | ![10](https://github.com/user-attachments/assets/d6ae6628-26c4-4aff-ad52-e535d88aab99) |
 
 ## Installation
 
