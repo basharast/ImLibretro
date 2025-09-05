@@ -99,6 +99,12 @@ This project adhere to [ImMobile Privacy](https://github.com/basharast/ImMobile/
 
 **Developed by:** Bashar Astifan
 
+## Testing
+
+Thanks to [LV](https://t.me/LV_LUXURY) for his efforts to test ImLibretro over legacy hardware & 8.1
+
+---
+
 ## Acknowledgements
 
-- **Libretro:** [libretro-common](https://github.com/libretro/libretro-common)
+**Libretro:** [libretro-common](https://github.com/libretro/libretro-common)
