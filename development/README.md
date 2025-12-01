@@ -2,7 +2,7 @@
 
 This page will be improved by time
 
-for now here some quick details, to centralized the storage requests and avoid UWP limiations
+for now here some quick details, to centralized the storage requests and avoid UWP limitations
 
 ensure to link some functions with `ImmLibretro.lib`
 
