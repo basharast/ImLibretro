@@ -111,7 +111,7 @@ This project adhere to [ImMobile Privacy](https://github.com/basharast/ImMobile/
 
 ## Testing
 
-Thanks to `Louis Vuitton` for his efforts to test ImLibretro over legacy hardware & 8.1
+Thanks to [LV](https://t.me/LV_LUXURY) for his efforts to test ImLibretro over legacy hardware & 8.1
 
 ---
 
