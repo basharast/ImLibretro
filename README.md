@@ -46,6 +46,16 @@ This extension can work on any device with Windows 8.1+
 | ![3](https://github.com/user-attachments/assets/bd186808-63e6-4151-8660-e6a00e081891) | ![4](https://github.com/user-attachments/assets/399cefa9-fb6f-4371-803d-6d493ec9c84e) | ![6](https://github.com/user-attachments/assets/be214aaa-68df-4f3e-a0ba-17925a945c3f) |
 | ![5](https://github.com/user-attachments/assets/f73a6c46-1f50-4a83-b4ac-304fceb32b0f) | ![8](https://github.com/user-attachments/assets/58419f59-3f2f-4161-b908-85a8ca85fcf4) | ![10](https://github.com/user-attachments/assets/d6ae6628-26c4-4aff-ad52-e535d88aab99) |
 
+<details>
+ <summary>More Screenshots (Click Here)</summary>
+  <br>
+  
+| ![1](https://github.com/user-attachments/assets/e8d4c24c-974d-4b97-b1a2-3e038e08bbef) | ![2](https://github.com/user-attachments/assets/a9c1b1a8-b505-4ff5-a90e-64340b18a1f7) | ![3](https://github.com/user-attachments/assets/4d082553-aa69-4d19-85a3-0dc0bb93bdbd) |
+| --- | --- | --- |
+| ![4](https://github.com/user-attachments/assets/bc27f4ee-e9aa-49bd-a5c8-fa7679a7dd81) | ![5](https://github.com/user-attachments/assets/392e4a0d-2959-4774-9ca4-29ec00396e3a) | ![6](https://github.com/user-attachments/assets/b769273b-4017-4e86-ae9c-1403b89cd735) |
+
+</details>
+
 ## Installation
 
 - Get [ImMobile Latest](https://github.com/basharast/ImMobile/releases/latest) 
