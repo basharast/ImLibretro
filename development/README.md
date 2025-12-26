@@ -29,6 +29,26 @@ those functions are internally resolved for UWP, so it's very important to use t
 
 ---
 
+## MemCard
+
+ImLibretro handle memory card safe in the same way other frontends do
+
+this to avoid slow down due to constant read/write, 
+
+so user need to ensure to stop emulation from the stop button,
+
+not to close the app it self, otherwise the frontend will not safe anything
+
+however, in ImLibretro as extra, there is option in the "Save" icon (in-game)
+
+this usually used for save state (slots), but they have extra helper at the end,
+
+this option called `Sync MemCard` which will ensure that memory card data synced with the files.
+
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/381e8e21-d160-474a-a229-64f3bea43696" />
+
+---
+
 ## Cores Sources
 
 The cores sources provided from my dev environment as-is, 
