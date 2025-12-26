@@ -43,7 +43,9 @@ however, in ImLibretro as extra, there is option in the "Save" icon (in-game)
 
 this usually used for save state (slots), but they have extra helper at the end,
 
-this option called `Sync MemCard` which will ensure that memory card data synced with the files.
+this option called `Sync MemCard` which will ensure that MemCard synced with actual file,
+
+it can reduce the risks of losing progress due to crash or closing the app directly.
 
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/381e8e21-d160-474a-a229-64f3bea43696" />
 
