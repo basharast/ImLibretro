@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo.png" width="176"><br>
   <b>ImLibretro</b><br>
-  <a href="https://github.com/basharast/ImLibretro/wiki">Wiki & Guides</a>
+  <a href="https://github.com/basharast/ImLibretro/wiki">Wiki & Guides</a> | <a href="https://github.com/basharast/ImLibretro/wiki/Credits">Credits</a>
   <br><br>
 </p>
 
