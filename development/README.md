@@ -31,7 +31,7 @@ those functions are internally resolved for UWP, so it's very important to use t
 
 ## MemCard
 
-ImLibretro handle memory card safe in the same way other frontends do
+ImLibretro handle memory card save in the same way other frontends do
 
 this to avoid slow down due to constant read/write, 
 
