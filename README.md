@@ -83,7 +83,7 @@ you can assign up to 5 players/ports
 
 ## Touch Controller
 
-Highly advanced & customizable touch controller
+Advanced & highly customizable touch controller
 
 it provide debug visualization so user can understand how adjust touch senstivity
 
