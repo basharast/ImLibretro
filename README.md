@@ -63,9 +63,15 @@ This extension can work on any device with Windows 8.1+
 - Click on `Online` tab
 - Find & Install `ImmLibretro`
 
-The extension will set it self for auto start after first launch
+<details>
+ <summary>Video Steps (Click Here)</summary>
+  <br>
 
-click on the bolt icon to start it, then go to `Library` and toggle the UI
+https://github.com/user-attachments/assets/9fa74bfc-3e2a-4d37-9e11-dd65a8a10b06
+
+</details>
+
+Click on the bolt icon to start it, then go to `Library` and toggle the UI
 
 on ImMobile next startup, you will see a shortcut on the Home grid for easy access
 
